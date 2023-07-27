@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LMS", "LMS\LMS.vcxproj", "{60878E81-DA45-4E0B-B886-58AA69293DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60878E81-DA45-4E0B-B886-58AA69293DA3}.Debug|x64.ActiveCfg = Debug|x64
+		{60878E81-DA45-4E0B-B886-58AA69293DA3}.Debug|x64.Build.0 = Debug|x64
+		{60878E81-DA45-4E0B-B886-58AA69293DA3}.Release|x64.ActiveCfg = Release|x64
+		{60878E81-DA45-4E0B-B886-58AA69293DA3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33CC459E-3101-43B9-8554-22C561FD8395}
+	EndGlobalSection
+EndGlobal
